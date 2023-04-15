@@ -1,6 +1,6 @@
 jQuery(document).ready(function () {
             jQuery(".flex-video").prettyEmbed({
-                customPreviewImage: 'images/photos/img4.jpg',
+                customPreviewImage: 'https://thememasters.club/html-templates/ombre/images/photos/img4.jpg',
                 // Embed controls
                 showInfo: false,
                 showControls: true,
