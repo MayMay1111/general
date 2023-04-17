@@ -1,4 +1,5 @@
 setTimeout(function(){
+jQuery("#partners").show();
 jQuery("#partners").owlCarousel({
                 autoplay: true,
                 autoplayTimeout: 4000,
