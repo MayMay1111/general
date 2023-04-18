@@ -111,7 +111,7 @@ transition: all 300ms ease-in 0s;font-family: 'Raleway', sans-serif;}
 }
 .icon-search::before {
   color: #2c2c2c;
-  content: "ï€‚";
+  content: "\f002";
   font-family: FontAwesome;
   font-size: 12px;
 }
@@ -131,7 +131,7 @@ form#searchbox {
 }
 .button-search::before {
   color: #000;
-  content: "ï€‚";
+  content: "\f002";
   display: block;
   font-family: "FontAwesome";
   font-size: 14px;
@@ -172,7 +172,7 @@ form#searchbox input {
 }
 .shopping-cart > a:first-child::before {
   color: #2c2c2c;
-  content: "ïº";
+  content: "\f07a";
   font-family: FontAwesome;
   font-size: 12px;
   line-height: 30px;
@@ -186,7 +186,7 @@ form#searchbox input {
 }
 .icon-nav::after {
   color: #2c2c2c;
-  content: "ï€“";
+  content: "\f0c9“";
   cursor: pointer;
   display: block;
   font-family: FontAwesome;
@@ -334,7 +334,7 @@ span.phone {
 }
 .phone::before {
   color: #2c2c2c;
-  content: "ï‚•";
+  content: "\f025";
   cursor: pointer;
   display: block;
   float: left;
